@@ -1,0 +1,10 @@
+{
+    "license": "proprietary",
+    "type": "project",
+    "require-dev": {
+        "phpspec/phpspec": "^7.0"
+    },
+    "config": {
+        "platform": {}
+    }
+}
